@@ -22,9 +22,9 @@ hoi {}, my name is {}! if you have any questions about how to use me please give
 
 im a group manager bot maintained by  [this person](tg://user?id={}).
 
-My future updates will be put into This Channel - @Bingeclub
+My future updates will be put into This Channel - @OTTMiX
 
-This is my [Deploy Code](https://heroku.com/deploy?template=https://github.com/Milliebobbymanagerbot/English),
+This is my [Deploy Code](https://t.me/milliebobbymanagerbot),
 you can create clone same like me..
 
 For more commands click /help...
